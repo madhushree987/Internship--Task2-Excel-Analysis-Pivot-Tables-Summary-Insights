@@ -1,0 +1,11 @@
+ – TASK 2: PIVOT TABLE ANALYSIS
+
+1. The West region contributes the highest share of total sales compared to other regions, indicating strong market performance.
+
+2. The Technology category generates the highest total sales, making it the most business-driving category.
+
+3. The Consumer segment consistently shows better sales performance across most regions compared to other segments.
+
+4. The Central region records relatively lower profit margins despite having moderate sales, suggesting higher operational or logistics costs.
+
+5. Profit margin varies significantly across categories and regions, highlighting opportunities for cost optimization and strategic pricing.
